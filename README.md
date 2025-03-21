@@ -17,8 +17,6 @@ This repository contains a bare-metal implementation of I2C communication for ST
     ├── .gitignore # Excludes build artifacts and IDE files
     └── README.md # Project documentation
 
-
-
 ## Prerequisites
 - **STM32CubeIDE** (version 1.17.0 or later)
 - STM32 microcontroller development board
@@ -62,3 +60,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Contact
 For any questions or feedback, please contact **ofarukdemirtas**.
 
+## YouTube Video
+For a demonstration of the project, check out the video on YouTube:  
+[YouTube Video Link](<YOUR_YOUTUBE_VIDEO_LINK_HERE>)
