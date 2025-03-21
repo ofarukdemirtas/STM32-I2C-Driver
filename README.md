@@ -62,4 +62,4 @@ For any questions or feedback, please contact **ofarukdemirtas**.
 
 ## YouTube Video
 For a demonstration of the project, check out the video on YouTube:  
-[YouTube Video Link](<YOUR_YOUTUBE_VIDEO_LINK_HERE>)
+[YouTube Video Link](<https://youtu.be/xA93_gqaX5g>)
