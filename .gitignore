@@ -1,0 +1,22 @@
+# Build files
+Debug/
+Release/
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# IDE specific files
+.settings/
+.cproject
+.project
+*.launch
+
+# Generated files
+*.bak
+*.dmp
+*.log
